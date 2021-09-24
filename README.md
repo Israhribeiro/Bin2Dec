@@ -1,2 +1,3 @@
 # Bin2Dec
- A Simple Website that Converts Binary to Decimal
+Um simples conversor de Binário para Decimal usando apenas HTML,CSS e JS.
+
